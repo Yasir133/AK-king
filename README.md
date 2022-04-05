@@ -15,6 +15,6 @@ pip inatall Mechanize
 rm -rf AKING
 
 git clone https://github.com/Yasir133/AK-king/
-cd AKING
+cd AK-king
 
 python Brand.py
