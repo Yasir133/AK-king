@@ -13,6 +13,9 @@ pip inatall requests
 pip inatall Mechanize
 
 rm -rf AKING
+
 git clone https://github.com/Yasir133/AK-king/
+
 cd AK-king
+
 python Brand.py
