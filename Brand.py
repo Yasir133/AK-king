@@ -10,4 +10,4 @@ if bit == '64bit':
     from pc import login
     login()
 elif bit == '32bit':
-    print("\x1b[1;91mOpps Sorry Brother Your Mobile Not 
+    print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
